@@ -1,0 +1,70 @@
+Data Analytics + AI Integration
+
+🔹 Lesson 1: Introduction to AI-Driven Analytics
+=====================================================
+Summary:
+AI analytics combines machine learning with data analytics to uncover deeper insights.
+Moves from “What happened?” → “What will happen next?”
+Automates pattern discovery and forecasting
+
+Example:
+Netflix using ML to predict what you’ll watch next based on your past behavior.
+
+Video: AI-Driven Analytics Explained – 12 mins
+
+
+🔹 Lesson 2: Predictive Modeling with Regression
+=======================================================
+Summary:
+Predict future outcomes using regression models.
+Linear Regression → continuous values (e.g., sales, revenue)
+Logistic Regression → classification (e.g., churn prediction)
+
+Example:
+A telecom company predicts which users are likely to cancel their plans next month.
+
+Video: Predictive Analytics using Regression – 15 mins
+
+
+🔹 Lesson 3: Automating Reports with Python
+==================================================
+Summary:
+Automate repetitive analytics tasks using Python scripts.
+Use pandas + openpyxl to export Excel reports
+Schedule daily report generation with cron or Task Scheduler
+
+Example:
+Generate a daily sales report at 9 AM automatically and email it to the manager.
+
+Video: Automate Excel Reports with Python – 14 mins
+
+
+🔹 Lesson 4: Power BI + AI Visuals
+=======================================
+Summary:
+Power BI integrates AI features like:
+Key Influencers Visual – finds factors affecting a metric
+Decomposition Tree – explains KPI changes
+Natural Language Q&A – asks questions in plain English
+
+Example:
+Ask Power BI: “Why did sales drop in April?” → AI shows low marketing spend as the cause.
+
+Video: Power BI AI Visuals Tutorial – 18 mins
+
+
+🔹 Lesson 5: Case Study – Predictive Revenue Dashboard
+=========================================================
+Summary:
+Combine analytics + AI to forecast next-quarter sales.
+Clean and preprocess sales data
+Train regression model in Python
+Import predictions into Power BI dashboard
+
+Example:
+An e-commerce firm forecasted +12 % Q4 revenue growth, guiding inventory and marketing.
+
+Video: Predictive Dashboard Case Study – 20 mins
+
+
+
